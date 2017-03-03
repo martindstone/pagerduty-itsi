@@ -1,6 +1,8 @@
 # pagerduty-itsi
 Splunk ITSI -> PagerDuty integration
 
+![screenshot](pagerduty-itsi.png)
+
 This is Notable Event Action that triggers a PagerDuty incident. It also updates the Notable Event with a direct link to the PagerDuty incident that was created (you may need to refresh the Notable Event after the action runs in order to see the link.)
 
 ## Instructions for use:
