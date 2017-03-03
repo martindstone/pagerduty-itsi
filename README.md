@@ -20,7 +20,7 @@ This is Notable Event Action that triggers a PagerDuty incident. It also updates
 	```
 	[pagerduty_itsi]
 	is_custom = 1
-	param.integration_url = <your integration URL from step 1>
+	param.integration_url = <your integration URL from Step 1>
 	param.token = <your API token from Step 2>
 	label = Trigger PagerDuty Incident
 	description = Trigger an incident in PagerDuty
